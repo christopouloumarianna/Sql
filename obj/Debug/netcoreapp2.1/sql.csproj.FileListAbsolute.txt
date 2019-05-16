@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\sql\sql\bin\Debug\netcoreapp2.1\sql.deps.json
+C:\Users\Admin\source\repos\sql\sql\bin\Debug\netcoreapp2.1\sql.runtimeconfig.json
+C:\Users\Admin\source\repos\sql\sql\bin\Debug\netcoreapp2.1\sql.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\sql\sql\bin\Debug\netcoreapp2.1\sql.dll
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.AssemblyInfo.cs
+C:\Users\Admin\source\repos\sql\sql\bin\Debug\netcoreapp2.1\sql.pdb
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.dll
+C:\Users\Admin\source\repos\sql\sql\obj\Debug\netcoreapp2.1\sql.pdb
